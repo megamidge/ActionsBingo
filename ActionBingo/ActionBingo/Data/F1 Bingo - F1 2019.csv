@@ -1,0 +1,102 @@
+#,Proposition,Count
+0,Joker,
+1,Hulkenberg gets a podium,0/1
+2,Renault to outscore Red Bull in any race,0/1
+3,Williams isn't P10 for 3 or more races,0/3
+4,Charles Leclerc to outscore Sebastian Vettel in more than 10 races,0/10
+5,Max Verstappen crashes into Pierre Gasly,0/1
+6,Stroll to outscore Kubica in more than 16 races,0/16
+7,No T1 pileup involving more than 3 drivers,0/1
+8,Grosjean doesn't crash more than Once all season,0/-1
+9,Race with 20 drivers that cross the line,0/1
+10,Race with less than 10 drivers that cross the line,0/1
+11,A driver that left F1 in 18' comes back in 19',0/1
+12,Two punctures on one car at the same time,0/1
+13,Crash causing 4 instant DNF or more,0/1
+14,Lewis Hamilton to win more races than any other driver,0/1
+15,Valteri Bottas to finish in the top three of the drivers' championship,0/1
+16,Safety Car to come out in more than 3 times during one race,0/1
+17,Safety Car to drive down the pitlane due to an incident on the main straight,0/1
+18,Driver crashes or gets damage during a safety car,0/1
+19,Pierre Gasly to win a race,0/1
+20,Sebastian Vettel to hat-rick in the opening race,0/1
+21,Kimi Räikönnen to finish in the top 5 of any race,0/1
+22,McLaren to outscore Red Bull in any race,0/1
+23,Mercedes to outscore Williams and Torro Rosso combined in more than 10 races,0/10
+24,A red flag due to weather conditions in any session during the race weekend,0/1
+25,A red flag due to a crash during the race,0/1
+26,Less than 16 classified finishers in more than 5 races,0/5
+27,Daniel Ricciardo to get a podium,0/1
+28,A driver that does not race for a top 3 team gets a podium more than once,0/1
+29,Fernando Alonso to race during the 2019 season,0/1
+30,Sergio Perez to get a podium,0/1
+31,A driver that does not race for a top 3 team gets a podium at Azerbaijann,0/1
+32,A driver gets 3 consecutive wins,0/1
+33,A driver gets 3 consecutive poles,0/1
+34,A driver gets 3 consecutive fastest laps,0/1
+35,A driver gets more than 5 fastest laps,0/1
+36,Renault takes a win,0/1
+37,Sebastian Vettel will spin at least 5 times this season,0/5
+38,Valteri will get told by james to let lewis by,0/1
+39,At least one Honda engine will break down in melbourne,0/1
+40,Both Mclaren drivers will finish in the top 10 at Melbourne,0/2
+41,Daniel Ricciardo and Max Verstappen crash together,0/1
+42,Valtteri Bottas wins the Championship,0/1
+43,Kimi Räikkönen to finish the season as best of the rest,0/1
+44,Charles Leclerc to dedicate his first win to his Godfather Jules Bianchi,0/1
+45,Sebastian Vettel to crash while leading the race,0/1
+46,Daniel Kvyat to cause more than 2 lap one incidents,0/2
+47,A driver is released from a pit stop with a wheel not secured during a race,0/1
+48,Honda engine drivers to finish higher than all Renault engine drivers,0/1
+49,Renault engine drivers to finish higher than all Honda engine drivers,0/1
+50,Halo to save a driver from a collision,0/1
+51,DRS failure causes a crash,0/1
+52,A driver gets a penatly point race ban,0/1
+53,Daniel Kvyat takes out his teammate,0/1
+54,Leclerc finishes ahead of Vettel in at least 7 races,0/1
+55,Leclerc out-qualifies Vettel in any race,0/1
+56,Gasly out-qualifies Verstappen within 4 races,0/-4
+57,Stroll is out qualified by his teammate in atleast 12 races,0/12
+58,Both Williams cars complete the Australian GP,0/2
+59,Both Williams cars fail to complete the race at Spain or Italy,0/-1
+60,One Williams car finishes the Canadian GP,0/1
+61,Torro Rosso to ouscore Red Bull in any race,0/1
+62,"Haas, Racing Point or Alfa Romeo make a pit stop error resulting in the retiring of the car (any race)",0/1
+63,Lewis Hamilton to get a hat-rick in more than 3 Grand Prixes,0/3
+64,A member of any pit crew is injured during a qualifying or racing session,0/1
+65,8 safety cars are deployed over the course of the first 5 races,0/8
+66,A driver speeds in the pit lane during the race,0/1
+67,The weigh bridge plays host to a tiff between 2 or more drivers,0/1
+68,Chequered flag is waved 1 or more laps too early or late in at least 1 race,0/1
+69,Red bull get more mechanical failures during the race than Torro Rosso over the season,0/21
+70,Williams get the most mechanical failures during the race across the season,0/0
+71,A driver wins the race having qualified outside the top 5,0/1
+72,A driver finishes on the podium having qualified in 15th or higher,0/1
+73,A driver finishes a race in the points after being last in that same race,0/1
+74,A driver currently in the top 5 race position gets a puncture from debris on track,0/1
+75,Drivers of the same team take each other out during a race,0/1
+76,Max Verstappen is mad about an accident he caused,0/1
+77,Hamilton to say this country has the best fans more than 5 times,0/5
+78,Williams fails to get a single point,0/0
+79,"""Valterri its James"" is said to Bottas",0/1
+80,A car in any session runs over an animal on track,0/1
+81,Charles Leclerc to go in the gravel at Suzuka,0/1
+82,"Pundits refer to Daniel Ricciardo as ""The Honey Badger"" atleast 10 times",0/10
+83,Pundits refer to 'Racing Point' as 'Force India',0/1
+84,Pundits refer to 'Alfa Romeo Racing' as 'Sauber',0/1
+85,‘Last name’ to appear in the HUD in any session,0/1
+86,A driver gets a lift from another driver at the end of the race,0/1
+87,Hulkenburg and Magnessun make contact during any race,0/1
+88,Verstappen brakes too late into a corner and makes contact with another driver ,0/1
+89,Verstappen outscores his teammate in at least 14 races,0/14
+90,Eddy Jordan Makes an Arse of himself on TV (again),0/1
+91,At least 5 Haas puns from Will Buxton,0/5
+92,Ricciardo Gives Someone Middle Finger,0/1
+93,Claire Williams cries,0/1
+94,Cyril makes a comment about Honda,0/1
+95,Horner makes a comment about Renault,0/1
+96,One of the new drivers gets a podium,0/1
+97,Horner criticises Honda,0/1
+98,Max Verstappen Tries to Fight someone off track,0/1
+99,"A driver claims that the stewards are ""ruining racing""",0/1
+100,Joker,
